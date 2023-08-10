@@ -6,7 +6,9 @@ Sarcasm detection is of great importance in understanding people’s true sentim
 
 
 Dataset:https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
-glove embedding: https://www.kaggle.com/datasets/bertcarremans/glovetwitter27b100dtxt
+
+
+Glove embedding: https://www.kaggle.com/datasets/bertcarremans/glovetwitter27b100dtxt
 
 
 
